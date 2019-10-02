@@ -61,13 +61,11 @@ img#arrow {
 #staleTime {
   flex-grow: 1;
   font-size: 6vmin;
-  display: none;
 }
 
 #delta {
   font-size: 16vmin;
   vertical-align: middle;
-  display: none;
 }
 
 #clock {
