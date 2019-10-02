@@ -69,7 +69,7 @@ img#arrow {
 }
 
 #clock {
-  display: none;
+  font-size: 15vmin;
 }
 
 .close {
