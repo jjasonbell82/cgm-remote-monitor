@@ -60,11 +60,11 @@ img#arrow {
 
 #staleTime {
   flex-grow: 1;
-  font-size: 6vmin;
+  font-size: 15vmin;
 }
 
 #delta {
-  font-size: 16vmin;
+  font-size: 25vmin;
   vertical-align: middle;
 }
 
