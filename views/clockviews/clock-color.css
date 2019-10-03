@@ -31,7 +31,12 @@ main {
   display: inline-block;
   vertical-align: middle;
 }
-
+#iob  {
+  font-size: 24vmin
+}
+#bwp {
+  font-size: 24vmin
+}
 #trend {
   display: -ms-flexbox;
   display: -webkit-flex;
